@@ -7,13 +7,11 @@
 - 📈 주도적으로 끊임없이 성장할 수 있는 환경을 좋아합니다.
 - 🤝 함께 일하고 싶은 개발자가 되고 싶습니다.
 
-### 📚 Tech Stack 📚
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+### 🛠 Skills 🛠
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-### 🛠 Tools 🛠
 
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat_square&logo=Tistory&logoColor=white&height=2">
