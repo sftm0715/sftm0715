@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=About%20Me&fontSize=90" />
 
 
 <!--
