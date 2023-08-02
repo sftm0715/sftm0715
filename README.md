@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=About%20Me&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee&fontSize=90" />
 
 
 <!--
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 추후 배너 색깔 바꾸
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
