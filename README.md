@@ -16,7 +16,7 @@
 ### 🛠 Tools 🛠
 
 ### ✨ Follow Me ✨
-<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat_square&logo=Tistory&logoColor=white&fontSize=2">
+<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat_square&logo=Tistory&logoColor=white&height=2">
 <a href="mailto:sftm0715@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&fontSize=2&link=sftm0715@gmail.com"/></a>
 
 
