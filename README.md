@@ -23,6 +23,10 @@
 <a href="mailto:sftm0715@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=sftm0715@naver.com"/></a>
 <!--노션-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sftm0715&show_icons=true&theme=radical
+
+<!--백준티-->
+
 <!--
 **sftm0715/sftm0715** is a  🔥 _special_ ✨🛠 repository because its `README.md` (this file) appears on your GitHub profile.
 
