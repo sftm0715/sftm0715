@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90&customColorList=6" />
 
 
-# Backend Developer 정다희 👩‍💻   
+# 👩‍💻 Backend Developer 정다희    
 ### 🔥 About Me 🔥
 - ✏️새로 배운 지식을 나만의 것으로 정리하고 기록하는 것을 좋아합니다.
 - 📈 주도적으로 개발하고 성장할 수 있는 환경을 선호합니다.
