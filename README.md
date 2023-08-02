@@ -9,6 +9,7 @@
 - 📈 주도적으로 학습하고 성장할 수 있는 환경을 좋아합니다.
 - 🤝 함께 일하고 싶은 개발자가 되고 싶습니다.   
 <br/>
+
 ### 📚️ Skills 📚️
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
