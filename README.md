@@ -11,15 +11,12 @@
 
 <br/>
 
-### 📚️ Platforms & Languages 📚️
+### 📚️ Skills 📚️
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-
-### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
@@ -31,7 +28,7 @@
 <!--노션-->
 
 <!--
-**sftm0715/sftm0715** is a  🔥 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sftm0715/sftm0715** is a  🔥 _special_ ✨🛠 repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
