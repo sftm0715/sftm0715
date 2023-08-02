@@ -1,12 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90" />
-&nbsp; 
+
 ## 😄 This is me! 😄
 - 👩‍💻Backend Developer
 - ✏️새로운것을 배우고, 기록하여 정리하는 것을 좋아합니다.
 - 📈 주도적으로 끊임없이 성장할 수 있는 환경을 좋아합니다.
 - 🤝 함께 일하고 싶은 개발자가 되고 싶습니다.
-&nbsp; 
+
 ## 📚️ Tech Stack 📚️
 ### 🔥 Platforms & Languages 🔥
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-&nbsp; 
+
 ### 🛠 Tools 🛠
-<!--포스트맨-->
-<!--깃헙-->
-&nbsp; 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
+
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white&height=2">
 <!--노-->
