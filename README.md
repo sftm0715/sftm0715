@@ -1,6 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90" />
-
+	
+ <div align="center">
 ### 😄 This is me! 😄
 - 👩‍💻Backend Developer
 - ✏️새로운것을 배우고, 기록하여 정리하는 것을 좋아합니다.
@@ -18,7 +19,7 @@
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat_square&logo=Tistory&logoColor=white&height=2">
 <a href="mailto:sftm0715@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&fontSize=2&link=sftm0715@gmail.com"/></a>
-
+	</div>
 
 <!--
 **sftm0715/sftm0715** is a  🔥 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
