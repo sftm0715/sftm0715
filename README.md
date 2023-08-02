@@ -16,9 +16,8 @@
 ### 🛠 Tools 🛠
 
 ### 🛠 Follow Me 🛠
-<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-<a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-<a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-#09B3AF?style=flat-square&logo=Vimeo&logoColor=white&link=https://jdh0715.tistory.com/"/></a>
+<a href="mailto:sftm0715@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sftm0715@gmail.com"/></a>
 
 
 <!--
