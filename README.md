@@ -15,13 +15,13 @@
 
 ### 🛠 Tools 🛠
 
-### 🛠 Follow Me 🛠
-<img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=white">
+### ✨ Follow Me ✨
+<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=white">
 <a href="mailto:sftm0715@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sftm0715@gmail.com"/></a>
 
 
 <!--
-**sftm0715/sftm0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sftm0715/sftm0715** is a  🔥 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
