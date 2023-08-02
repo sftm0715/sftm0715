@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90&fontColor=000000" />
 
 ## 😄 This is me! 😄
 - 👩‍💻Backend Developer
