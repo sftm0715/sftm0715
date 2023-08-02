@@ -20,7 +20,7 @@
 
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white&height=2">
-<a href="mailto:sftm0715@naver.com"><img src="https://img.shields.io/badge/Email-#30B980?style=flat-square&logo=Gmail&logoColor=white&fontSize=2&link=sftm0715@naver.com"/></a>
+<a href="mailto:sftm0715@naver.com"><img src="https://img.shields.io/badge/E-mail-#30B980?style=flat-square&logo=E-mail&logoColor=white&fontSize=2&link=sftm0715@naver.com"/></a>
 <!--노션-->
 
 <!--
