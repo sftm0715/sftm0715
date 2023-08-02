@@ -1,7 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90&customColorList=6" />
 
-<br/>
 
 # Backend Developer 정다희 👩‍💻   
 ### 🔥 About Me 🔥
