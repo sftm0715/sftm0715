@@ -7,14 +7,14 @@
 - 📈 주도적으로 학습하고 성장할 수 있는 환경을 좋아합니다.
 - 🤝 함께 일하고 싶은 개발자가 되고 싶습니다.   
    
-### 📚️ Platforms & Languages 📚️
+   ### 📚️ Platforms & Languages 📚️
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-### 🛠 Tools 🛠
+   ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
