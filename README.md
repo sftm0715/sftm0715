@@ -10,17 +10,17 @@
 
 ### 📚️ Skills 📚️
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 
 
 ### ✨ Follow Me ✨
-<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white&height=2">
-<a href="mailto:sftm0715@naver.com"><img src="https://img.shields.io/badge/E-mail-#30B980?style=flat-square&logo=E-mail&logoColor=white&fontSize=2&link=sftm0715@naver.com"/></a>
+<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=white&height=2">
+<a href="mailto:sftm0715@naver.com"><img src="https://img.shields.io/badge/E-mail-#30B980?style=for-the-badge&logo=E-mail&logoColor=white&fontSize=2&link=sftm0715@naver.com"/></a>
 <!--노션-->
 
 <!--
