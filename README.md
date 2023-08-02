@@ -1,6 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90&customColorList=6" />
 
+<br/>
+
 ## Backend Developer 정다희 👩‍💻   
 ### 🔥 About Me 🔥
 - ✏️새로 배운 지식을 나만의 것으로 정리하고 기록하는 것을 좋아합니다.
@@ -16,9 +18,13 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+<br/>
+
 ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+
+<br/>
 
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white&height=2">
