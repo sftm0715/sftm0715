@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90" />
 	
-### 😄 This is me! 😄
+## 😄 This is me! 😄
 - 👩‍💻Backend Developer
 - ✏️새로운것을 배우고, 기록하여 정리하는 것을 좋아합니다.
 - 📈 주도적으로 끊임없이 성장할 수 있는 환경을 좋아합니다.
