@@ -16,7 +16,7 @@
 ### 🛠 Tools 🛠
 
 ### 🛠 Follow Me 🛠
-<a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-#09B3AF?style=flat-square&logo=Vimeo&logoColor=white&link=https://jdh0715.tistory.com/"/></a>
+<a href="https://jdh0715.tistory.com/"><img src=style=flat-square&Color=white&link=https://jdh0715.tistory.com/"/></a>
 <a href="mailto:sftm0715@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sftm0715@gmail.com"/></a>
 
 
