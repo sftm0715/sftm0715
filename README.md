@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 🛠 Tools 🛠
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
 ### ✨ Follow Me ✨
 <a href="https://jdh0715.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white&height=2">
