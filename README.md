@@ -2,10 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Dahee!&fontSize=90&customColorList=6" />
 
 
-# Backend Developer 정다희 👩‍💻    
+# Backend Developer 정다희 👩‍💻 
+## 안녕하세요! 배움을 즐기는 신입 개발자 정다희 입니다! 😊
 ### 🔥 About Me 🔥
 - 🚩 **도전적인** **목표**를 성취하는 과정에서 **배우고 성장하는 것**을 즐깁니다.
-- 🤝 **다양한 직군**과 ****활발히 **소통하고 협력**하는 **함께 일하고 싶은 개발자**가 되고 싶습니다.
+- 🤝 **다양한 직군**과 **활발히 소통하고 협력**하는 **함께 일하고 싶은 개발자**가 되고 싶습니다.
 - 📈 **서비스와 개발자가 함께 성장**할 수 있는 환경을 선호합니다.
 
 <!-- - ✏️새로 배운 지식을 나만의 것으로 정리하고 기록하는 것을 좋아합니다.
